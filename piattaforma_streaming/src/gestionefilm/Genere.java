@@ -1,3 +1,5 @@
+package gestionefilm;
+
 /**
  * Generi disponibili per un telefilm.
  */

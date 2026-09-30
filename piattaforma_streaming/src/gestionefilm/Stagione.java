@@ -1,5 +1,4 @@
-package logica;
-
+package gestionefilm;
 /**
  * Rappresenta una stagione di un telefilm.
  */

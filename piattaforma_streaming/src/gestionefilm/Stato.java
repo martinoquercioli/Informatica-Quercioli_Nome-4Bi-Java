@@ -1,14 +1,11 @@
-    package logica;
+package gestionefilm;
 
 /**
- * Stati possibili della produzione di un telefilm.
+ * Stati possibili di un telefilm.
  */
 public enum Stato {
-    /** Produzione ancora in corso. */
+    /** Telefilm ancora in produzione. */
     IN_CORSO,
-    /** Produzione terminata. */
+    /** Telefilm concluso. */
     TERMINATO
-
 }
-
-    
